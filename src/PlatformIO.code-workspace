@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\.."
+	},
+	{
+		"name": "LED control with Firebase",
+		"path": ".."
+	},
+	{
+		"name": "Test Async Server Library",
+		"path": "..\\..\\Test Async Server Library"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501
+  }
+}
