@@ -7,10 +7,10 @@
 #include "LittleFS.h"
 #include <sub.h>
 
-#define API_KEY "AIzaSyAKdB8p-d4R26M2ZP4B3xodTtCPoduOhas"
-#define DATABASE_URL "https://esp-firebase-demo-8cb7b-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "nghiepquy6@gmail.com"
-#define USER_PASSWORD "12345678"
+#define API_KEY "API"
+#define DATABASE_URL "DATABASE_URL"
+#define USER_EMAIL "EMAIL"
+#define USER_PASSWORD "PASS"
 
 AsyncWebServer server(80);
 
